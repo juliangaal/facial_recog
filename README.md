@@ -10,3 +10,6 @@ Demo for [First Order Model](https://github.com/AliaksandrSiarohin/first-order-m
 
 Demo for [StyleGAN](https://github.com/NVlabs/stylegan). GPU support only.
 
+#### StyleGAN2 Demo 
+
+**WIP**
