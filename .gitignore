@@ -1,0 +1,4 @@
+*first-order-model*
+*.tar
+*.ipynb_checkpoints*
+*out*
