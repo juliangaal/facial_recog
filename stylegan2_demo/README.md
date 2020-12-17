@@ -2,6 +2,8 @@
 
 This notebook is guaranteed to run in Colab. If you want to run it locally, you're on your own.
 
+Visit [Google Colab](https://colab.research.google.com) and upload this notebook to get started.
+
 
 ### Notes (please ignore)
 
