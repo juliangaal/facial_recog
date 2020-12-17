@@ -12,4 +12,4 @@ Demo for [StyleGAN](https://github.com/NVlabs/stylegan). GPU support only.
 
 #### StyleGAN2 Demo 
 
-**WIP**
+Demo for [StyleGAN2](https://github.com/NVlabs/stylegan2). GPU support only.
