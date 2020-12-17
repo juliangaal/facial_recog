@@ -1,4 +1,11 @@
-Things to download
+# StyleGAN2 Demo
+
+This notebook is guaranteed to run in Colab. If you want to run it locally, you're on your own.
+
+
+### Notes (please ignore)
+
+Things to download (for a rainy day)
 * [pretrained net option 1](https://nvlabs-fi-cdn.nvidia.com/stylegan2/networks/stylegan2-ffhq-config-f.pkl)
 * [pretrained net option 2](http://d36zk2xti64re0.cloudfront.net/stylegan2/networks/stylegan2-ffhq-config-f.pkl)
 * [nable weights](https://nnabla.org/pretrained-models/nnabla-examples/GANs/stylegan2/styleGAN2_G_params.h5)
