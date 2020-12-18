@@ -39,7 +39,7 @@ jupyter notebook
 
 Demo for [StyleGAN](https://github.com/NVlabs/stylegan). GPU support only. No Mac Support.
 
-***Strong* Recommendation: Use Google Colab** and simply upload the notebook to get started. Google Colab is
+***Strong* Recommendation: Use [Google Colab](https://colab.research.google.com)** and simply upload the notebook to get started. Google Colab is
 * the only environment we could test to the full extent (StyleGAN1 and StyleGAN2)
 * the chance is very high that your GPU (if any) doesn't have enough memory (we hit the limits on local installation)
 
@@ -58,7 +58,7 @@ Demo for [StyleGAN](https://github.com/NVlabs/stylegan). GPU support only. No Ma
 
 Demo for [StyleGAN2](https://github.com/NVlabs/stylegan2). GPU support only. No Mac support.
 
-***Strong* Recommendation: Use Google Colab** and simply upload the notebook to get started. Google Colab is
+***Strong* Recommendation: Use [Google Colab](https://colab.research.google.com)** and simply upload the notebook to get started. Google Colab is
 * the only environment we could test to the full extent (StyleGAN1 and StyleGAN2)
 * the chance is very high that your GPU (if any) doesn't have enough memory (we hit the limits on local installation)
 
