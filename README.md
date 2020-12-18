@@ -98,3 +98,5 @@ jupyter notebook
 
 ### Troubleshooting
 If you run into trouble, make sure to *include your OS, OS Version and Python in the bug report in the forum.*
+
+Zip generated with `zip -r demo.zip . -x ".git/*" -x "*.ipynb_checkpoints/*"`
