@@ -1,8 +1,8 @@
 # Demos
 
-Each folder contains a separate demo. 
+Each folder contains a separate demo. (Open this file [on github](https://github.com/juliangaal/facial_recog) for the best viewing experience.)
 
-### First Order Model
+## First Order Model
 
 Demo for [First Order Model](https://github.com/AliaksandrSiarohin/first-order-model). Can be run on *CPU or GPU*. Training on CPU takes 15-30 mins (15 mins on Desktop class PC).
 
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-### StyleGAN1 Demo 
+## StyleGAN1 Demo 
 
 Demo for [StyleGAN](https://github.com/NVlabs/stylegan). GPU support only. No Mac Support.
 
@@ -54,7 +54,7 @@ Demo for [StyleGAN](https://github.com/NVlabs/stylegan). GPU support only. No Ma
 
 #### Windows
 
-### StyleGAN2
+## StyleGAN2
 
 Demo for [StyleGAN2](https://github.com/NVlabs/stylegan2). GPU support only. No Mac support.
 
